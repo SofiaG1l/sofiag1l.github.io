@@ -41,6 +41,8 @@ navigation_header:
   url: /about/
 - title: Events
   url: /blog/
+- title: Contact
+  url: /contact/
 - title: Github
   url: https://github.com/SofiaG1l
   
