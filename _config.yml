@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://sofiag1l.github.io/'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Sofia Gil-Clavel'
+description: 'PhD Student at the Max Planck Institute for Demographic Research'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 
 # Pagination
 paginate: 5
@@ -35,10 +35,15 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: CV
+  url: /Files/SofiaGil_EnglishCV.pdf
 - title: About
   url: /about/
-- title: Blog
+- title: Events
   url: /blog/
+- title: Github
+  url: https://github.com/SofiaG1l
+  
 
 # Footer nav
 navigation_footer:
