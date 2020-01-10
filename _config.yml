@@ -53,7 +53,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Events
     output: true
     description: "Here you can find the descriptions and links to events that I have helped organize."
     feature_image: "https://i.picsum.photos/id/7/4728/3168.jpg"
