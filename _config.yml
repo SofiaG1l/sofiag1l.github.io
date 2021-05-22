@@ -57,5 +57,5 @@ collections:
   posts:
     title: Events
     output: true
-    description: "Here you can find the descriptions and links to events where I participated."
+    description: "Here you can find the descriptions and links to events where I have participated."
     feature_image: "https://i.picsum.photos/id/7/4728/3168.jpg"
