@@ -10,13 +10,13 @@ All Publications: [Google Scholar Profile](https://scholar.google.com/citations?
 
 Beneath you can find small descriptions of events that I have been invited or I have organized.
 
-* Invited Events
+* **Invited Events**
 
 a. Roundtable Demographic Research with Web and Social Media Data
 
 Invited to the roundtable **Demographic Research with Web and Social Media Data** at the Latin American Population Association (ALAP), organized by [Diego Alburez-Gutierrez](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/diego_alburez_gutierrez_3783). You can find the video [here](https://www.youtube.com/watch?v=X0HIExHsq3E).
 
-* Organized Events
+* **Organized Events**
 
 a. Workshop Demographic Research with Web and Social Media Data
 
