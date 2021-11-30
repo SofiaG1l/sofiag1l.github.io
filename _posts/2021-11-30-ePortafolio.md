@@ -1,7 +1,7 @@
 ---
 title: Why an ePortafolio?
 categories:
-- a ePortafolio
+- ePortafolio
 excerpt: |
   Why an ePortafolio?
 feature_text: |
