@@ -4,9 +4,7 @@ title: Publications
 feature_image: "https://picsum.photos/1300/400?image=1073"
 ---
 
-All Publications:
-
-[Google Scholar Profile](https://scholar.google.com/citations?user=xuc6rUEAAAAJ&hl=en).
+All Publications: [Google Scholar Profile](https://scholar.google.com/citations?user=xuc6rUEAAAAJ&hl=en).
 
 
 ## Invited Events
@@ -24,6 +22,6 @@ This workshop was organized by Diego Alburez-Gutierrez, Emilio Zagheni and I. It
 
 #### Accessing and Making Sense of Digital Trace Data for Demographic Research
 
-This training workshop was organized by Emilio Zagheni and I, it was part of the event [**Digital Demography in the Era of Big Data**](https://iussp.org/en/digital-demography-era-big-data) event. You can check the full video of my part **Using the Facebook AP** [here](https://vimeo.com/351372897/08e873f197) and the related codes [here](https://github.com/SofiaG1l/Using_Facebook_API).
+This training workshop was organized by Emilio Zagheni and I, it was part of the event [**Digital Demography in the Era of Big Data**](https://iussp.org/en/digital-demography-era-big-data) event. You can check the full video of my part **Using the Facebook API** [here](https://vimeo.com/351372897/08e873f197) and the related codes [here](https://github.com/SofiaG1l/Using_Facebook_API).
 
 
