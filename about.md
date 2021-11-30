@@ -21,11 +21,7 @@ You can find the video [here](https://www.youtube.com/watch?v=X0HIExHsq3E).
 
 ### Workshop Demographic Research with Web and Social Media Data
 
-The Max Planck Institute for Demographic Research ([MPIDR](https://www.demogr.mpg.de/en/default.htm)) and the International Union for the Scientific Study of Population ([IUSSP](https://iussp.org/en)) invite submissions to the workshop "Demographic Research with Web and Social Media Data” taking place at the International Conference on Web and Social Media in Munich on 11th of June, 2019.
-
-The spread of the internet and online communities provide unprecedented opportunities for studying global population dynamics such as fertility, mortality, migration, and health. Internet users do not only leave ‘digital traces’ of their existence - the online world also influences their  behaviour, from daily decisions (like commuting patterns and kin interactions) to major life events (like childbirth and migration). Computational social scientists have long employed innovative methodologies and data sources to study social phenomena but demography has been slow in incorporating digital approaches, in spite of being a historically data-driven discipline. Demographers have only recently moved into the ‘digital realm’, but collaboration between demographers and computationally-oriented scientists remains limited. This workshop aims to foster dialogue and knowledge exchange between these two communities by focusing on the applications and implications of web and social media data for demographic research.
-
-More info [here](https://iussp.org/en/workshop-demographic-research-web-and-social-media-data).
+This workshop was organized by Diego Alburez-Gutierrez, Emilio Zagheni and I. It was a collaboration between the Max Planck Institute for Demographic Research ([MPIDR](https://www.demogr.mpg.de/en/default.htm)) and the International Union for the Scientific Study of Population ([IUSSP](https://iussp.org/en)). It took place at the International Conference on Web and Social Media in Munich [link](https://iussp.org/en/workshop-demographic-research-web-and-social-media-data) on 11th of June, 2019.
 
 
 ### Accessing and Making Sense of Digital Trace Data for Demographic Research
