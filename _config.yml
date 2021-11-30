@@ -39,8 +39,8 @@ navigation_header:
   url: /Files/SofiaGil_EnglishCV.pdf
 - title: Publications
   url: /about/
-- title: Events
-  url: /blog/
+- title: Collections
+  url: /categories/
 - title: Contact
   url: /contact/
 - title: Github
@@ -55,7 +55,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Events
+    title: Collections
     output: true
-    description: "Here you can find the descriptions and links to events where I have participated."
+    description: "Here you can find more about me."
     feature_image: "https://i.picsum.photos/id/7/4728/3168.jpg"
