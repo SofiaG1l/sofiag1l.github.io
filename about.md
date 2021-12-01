@@ -34,7 +34,8 @@ a. Workshop Demographic Research with Web and Social Media Data
 
 
 b. Accessing and Making Sense of Digital Trace Data for Demographic Research
+[link](https://iussp.org/en/digital-demography-era-big-data); [video](https://vimeo.com/351372897/08e873f197); [code](https://github.com/SofiaG1l/Using_Facebook_API)
 
-<p class="tab">This training workshop was organized by Emilio Zagheni and I, it was part of the event [Digital Demography in the Era of Big Data](https://iussp.org/en/digital-demography-era-big-data) event. You can check the full video of my part *Using the Facebook API* [here](https://vimeo.com/351372897/08e873f197) and the related codes [here](https://github.com/SofiaG1l/Using_Facebook_API).</p>
+<p class="tab">This training workshop was organized by Emilio Zagheni and me, it was part of the event Digital Demography in the Era of Big Data.</p>
 
 
