@@ -13,6 +13,6 @@ Previously, I studied actuarial science at the National Autonomous University of
 
 You can learn more about my PhD projects [here](https://sofiag1l.github.io/eportfolio/2022/07/23/ePortafolio/) and about my PostDoc work here.
 
-In general, my interests are: computational social science, demography, natural language processing, and computer science. I love coding, looking for patterns, and visualizing data.
+In general, my interests are computational social science, demography, natural language processing, and computer science. I love coding, looking for patterns, and visualizing data.
 
 
