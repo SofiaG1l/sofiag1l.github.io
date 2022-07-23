@@ -28,7 +28,7 @@ This is work in progress, for which soon I will share more.
 
 ## Non-Dissertation Projects
 
-As an expert on the use of the Facebook API, I was invited to contribute to a major project in which behavioral data was surveyed via Facebook. Here is all the information related with this project: [The COVID-19 Health Behavior Survey](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/social_and_environmental_dynamics_6603/the_covid_19_health_behavior_survey_9829).
+As an expert on the use of the Facebook API, I was invited to contribute to a major project in which behavioral data was surveyed via Facebook. Here is all the information related with this project: [The COVID-19 Health Behavior Survey](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/social_and_environmental_dynamics_6603/the_covid_19_health_behavior_survey_9829/details).
 
 
 
