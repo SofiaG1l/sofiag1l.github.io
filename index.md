@@ -7,7 +7,7 @@ feature_text: |
        Actuarial and Computer Scientist studying social dynamics.
 ---
 
-Hi! I am a PostDoc at [TU Delft](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems) working on the [SC3 project](http://www.sc3.center/). Besides, I am finishing my PhD at the [MPIDR](https://www.demogr.mpg.de/en/institute/staff_directory_1899/beatriz_sofa_gil_3775.htm), affiliated with the Faculty of Spatial Sciences of the University of Groningen.  
+Hi! I am a researcher at [TU Delft](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems) working on the [SC3 project](http://www.sc3.center/). Besides, I am finishing my PhD at the [MPIDR](https://www.demogr.mpg.de/en/institute/staff_directory_1899/beatriz_sofa_gil_3775.htm), affiliated with the Faculty of Spatial Sciences of the University of Groningen.  
 
 Previously, I studied actuarial science at the National Autonomous University of Mexico (UNAM), and I have a MSc in Computer Science from the Mathematical Research Center of Mexico (CIMAT). During my PhD, I was part of the international schools: [IMPRS-PHDS](https://www.imprs-phds.mpg.de/) and [CanD3](https://www.mcgill.ca/cand3/).
 
