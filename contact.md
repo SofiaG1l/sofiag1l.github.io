@@ -4,13 +4,9 @@ title: Contact
 feature_image: "https://picsum.photos/1300/400?image=1073"
 ---
 
-Max Planck Institute for Demographic Research
+You can find me at the Multi-Actor Systems Department [link](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems), TU Delft [link](https://www.tudelft.nl/), Netherlands.
 
-Konrad-Zuse-Str. 1, 18057 Rostock, Germany
-
-Phone: +49 381 2081-150
-
-Mailto:  <gil@demogr.mpg.de>
+Mailto:  <B.S.GilClavel@tudelft.nl>
 
 Web page: <https://sofiag1l.github.io>
 

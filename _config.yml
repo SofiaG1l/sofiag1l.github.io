@@ -23,7 +23,7 @@ plugins:
 url: 'https://sofiag1l.github.io/'
 baseurl: ''
 title: 'Sofia Gil-Clavel'
-description: 'PhD Student at the Max Planck Institute for Demographic Research'
+description: 'Post Doctoral Researcher at TU Delft'
 permalink: pretty
 logo: "/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 
