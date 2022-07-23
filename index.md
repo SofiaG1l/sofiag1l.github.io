@@ -11,7 +11,7 @@ Hi! Currently, I am a PostDoc at [TU Delft](https://www.tudelft.nl/en/tpm/about-
 
 Previously, I studied actuarial science at the National Autonomous University of Mexico (UNAM), and I have a MSc in Computer Science from the Mathematical Research Center of Mexico (CIMAT). During my PhD, I was part of the international schools: [IMPRS-PHDS](https://www.imprs-phds.mpg.de/) and [CanD3](https://www.mcgill.ca/cand3/).
 
-You can learn more about my PhD projects [here](https://sofiag1l.github.io/eportfolio/2022/07/23/PhD/) and about my PostDoc work here.
+You can learn more about my PhD projects [here](https://sofiag1l.github.io/eportfolio/2022/07/23/ePortafolio/) and about my PostDoc work here.
 
 In general, my interests are: computational social science, demography, natural language processing, and computer science. I love coding, looking for patterns, and visualizing data.
 
