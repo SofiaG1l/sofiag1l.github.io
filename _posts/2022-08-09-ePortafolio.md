@@ -53,12 +53,12 @@ In the case of reliability, this does not mean that Facebook is lying about the 
 
 ## References
 
-* Gil-Clavel, Sofia, and Emilio Zagheni. “Demographic Differentials in Facebook Usage around the World.” Proceedings of the International AAAI Conference on Web and Social Media 13 (2019): 647–50. https://ojs.aaai.org//index.php/ICWSM/article/view/3263.
+* Gil-Clavel, Sofia, and Emilio Zagheni. “Demographic Differentials in Facebook Usage around the World.” Proceedings of the International AAAI Conference on Web and Social Media 13 (2019): 647–50. [https://ojs.aaai.org//index.php/ICWSM/article/view/3263](https://ojs.aaai.org//index.php/ICWSM/article/view/3263).
 
-* Gil-Clavel, Sofia, Emilio Zagheni, and Valeria Bordone. “Close Social Networks Among Older Adults: The Online and Offline Perspectives.” Population Research and Policy Review, October 26, 2021. https://doi.org/10.1007/s11113-021-09682-3.
+* Gil-Clavel, Sofia, Emilio Zagheni, and Valeria Bordone. “Close Social Networks Among Older Adults: The Online and Offline Perspectives.” Population Research and Policy Review, October 26, 2021. [https://doi.org/10.1007/s11113-021-09682-3](https://doi.org/10.1007/s11113-021-09682-3).
 
 
-* Zagheni, Emilio, Ingmar Weber, and Krishna Gummadi. “Leveraging Facebook’s Advertising Platform to Monitor Stocks of Migrants: Leveraging Facebook’s Advertising Platform.” Population and Development Review 43, no. 4 (December 2017): 721–34. https://doi.org/10.1111/padr.12102.
+* Zagheni, Emilio, Ingmar Weber, and Krishna Gummadi. “Leveraging Facebook’s Advertising Platform to Monitor Stocks of Migrants: Leveraging Facebook’s Advertising Platform.” Population and Development Review 43, no. 4 (December 2017): 721–34. [https://doi.org/10.1111/padr.12102](https://doi.org/10.1111/padr.12102).
 
 
 
