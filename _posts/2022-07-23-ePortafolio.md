@@ -5,7 +5,7 @@ categories:
 excerpt: |
   PhD
 feature_text: |
-   Summary of PhD projects.
+   
 feature_image: "https://picsum.photos/1300/400?image=2"
 image: "https://picsum.photos/1300/400?image=2"
 ---
