@@ -20,7 +20,6 @@ image: https://picsum.photos/1300/400?image=373
         Data</a>
     -   <a href="#references" id="toc-references">References</a>
     
-    
 # Facebook Data
 
 During my PhD, I worked with data from Social Network Sites. One of those sources was Facebook. Therefore, in this post, I would like to give a short overview of: What Facebook data is; Why I used It; My Contributions to Research; and the Drawbacks of using Facebook Data.
@@ -37,7 +36,7 @@ Here is when data from Facebook became appealing for my research. Facebook is on
 
 ## My Contributions to Research
 
-During my PhD, my contributions to research in terms of Facebook data came in three ways. First, I developed easy to use and generalize R code to interact with the Facebook Marketing Manager through its Application Programming Interface. My code is quite robust to changes to the Application Programming Interface made by Meta (i.e., the parent company of Facebook). These features make my code the best way to interact with the Application Programming Interface using R.  To learn how to retrieve data using the Facebook API, you can follow this tutorial: https://github.com/SofiaG1l/Taller_COLMEX_API/blob/main/Facebook_API/Facebook_API_FB_en.md
+During my PhD, my contributions to research in terms of Facebook data came in three ways. First, I developed easy to use and generalize R code to interact with the Facebook Marketing Manager through its Application Programming Interface. My code is quite robust to changes to the Application Programming Interface made by Meta (i.e., the parent company of Facebook). These features make my code the best way to interact with the Application Programming Interface using R.  To learn how to retrieve data using the Facebook API, you can follow this tutorial: [https://github.com/SofiaG1l/Taller_COLMEX_API/blob/main/Facebook_API/Facebook_API_FB_en.md](https://github.com/SofiaG1l/Taller_COLMEX_API/blob/main/Facebook_API/Facebook_API_FB_en.md)
 
 Second, I assessed Facebook penetration by gender, age, and country in the world. In the case of age, I found that gender-based discrepancies are mediated by age and generally don’t exist for older users. In the case of gender, in Facebook women have larger close friend networks and use Facebook when traveling more. The results of this work can be found in my first dissertation article: Gil-Clavel & Zagheni (2019) ([link](https://ojs.aaai.org//index.php/ICWSM/article/view/3263)).
 
