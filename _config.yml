@@ -35,8 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Short_CV
-  url: /Files/SofiaGil_EnglishCV.pdf
+- title: CVs
+  url: /CVs/
 - title: Publications
   url: /about/
 - title: Collections
