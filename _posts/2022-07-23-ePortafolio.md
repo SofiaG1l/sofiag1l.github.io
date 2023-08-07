@@ -31,14 +31,14 @@ image: "https://picsum.photos/1300/400?image=2"
 # My PhD in a Nutshell
 
 In my PhD research, my main dissertation projects were focused on
-Europe, specifically on the study of immigrants’ cultural integration;
-emigrants’ family ties; and older people use of information and
+Europe, specifically on the study of family ties; immigrants’ cultural 
+integration; and older people use of information and
 communication technologies to maintain friendships. For my projects, I
 relied on analyzing data retrieved using Facebook and Twitter
 Application Programming Interfaces (APIs), through statistical methods
 together with natural language processing. Besides this, I also
 contributed to a major project in which behavioral data was surveyed via
-Facebook.
+Facebook. The final PhD thesis can be accessed [here](https://research.rug.nl/en/publications/studying-social-interactions-using-digital-trace-data-the-cases-o).
 
 ## PhD Projects
 
@@ -55,23 +55,28 @@ statistical models to analyze the daily active users, and to compare
 them against survey data
 [Article](https://link.springer.com/article/10.1007/s11113-021-09682-3).
 You can learn more about this project in the interview I did for MPIDR
-[link](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/do_migrants_over_50_use_social_media_to_maintain_friendships_9858).
+[link](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/do_migrants_over_50_use_social_media_to_maintain_friendships_9858). All the 
+codes to replicate this work are available in my Github [link](https://github.com/SofiaG1l/Demographic-Differentials-in-Facebook-Usage-Around-the-World) and [link](https://github.com/SofiaG1l/OlderAdultsCloseSocialNetworks).
 
 ### Immigrants and Language Acquisition
 
 For my third dissertation article, I used data from Twitter to study
 migrants’ language integration. To do so, I processed terabytes of
-Twitter-data stored in the Internet Archive and complemented it by
+Twitter-data stored in the Internet Archive [link](https://archive.org/details/twitterstream) and complemented it by
 retrieving some data using the Twitter API. To analyze migrants’
 language acquisition, I automatized the analysis of users’ tweets in
 order to categorized them as migrants and to track the language they
 used in a longitudinal manner. For this, I relied on natural language
-processing and on survival analysis [Working
-Paper](https://osf.io/preprints/socarxiv/bs4hk/).
+processing and on survival analysis. The final article is [here](https://doi.org/10.1111/padr.12574) and its working paper [here](https://osf.io/preprints/socarxiv/bs4hk/). All the codes to replicate
+this work are available in my Github [link](https://github.com/SofiaG1l/MigrationPolicies_ImmigrantsLanguageAcquisition_EU15).
 
 ### Twitter and Family Ties
 
-This is work in progress, for which soon I will share more.
+My final dissertation article explored whether the European family ties division 
+is reflected in Twitter users' conversations. For this, I relied on the geo-located
+tweets stored in the Internet Archive [link](https://archive.org/details/twitterstream) and used multilevel generalized 
+models to analyze the data. The working paper can be accessed [here](https://osf.io/c379h/).
+
 
 ### Non-Dissertation Projects
 
@@ -88,20 +93,27 @@ invited or I have organized.
 
 ## Invited Events
 
-1.  Gave a virtual training Workshop at El Colegio de Mexico “V Coloquio
+1.  Invited speaker at the Permanent Seminar *Aplicaciones de ciencia de datos 
+    en las ciencias sociales y las humanidades* of El Colegio de México. Presentation: 
+    “La asociación entre las políticas de integración cívica y de ciudadanía con
+    el uso de la lengua de destino de los inmigrantes de la UE-15: Uso de datos 
+    de Twitter para analizar la adquisición de idiomas” (You can find the video
+    [here](https://www.youtube.com/watch?v=DW6ou0NxZl8)). November 2022.
+
+2.  Gave a virtual training Workshop at El Colegio de Mexico “V Coloquio
     Internacional Estudiantil en Población, Ciudad y Ambiente”: Uso de
     APIs para la descarga de datos
     [link](https://cedua.colmex.mx/archivos/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhObVIwT0hRNWMzazBOWGhvWXpjM2VXTmxlblY2ZDJNeWJYcHdPUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxCeWIyZHlZVzFoVmtaZk5TNXdaR1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjFCeWIyZHlZVzFoVmtaZk5TNXdaR1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWhSaGNIQnNhV05oZEdsdmJpOXdaR1lHT3daVU9oRnpaWEoyYVdObFgyNWhiV1U2Q214dlkyRnMiLCJleHAiOiIyMDIyLTA1LTI1VDEyOjM3OjUxLjcyOVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--ef377c2e964534237680bd17fd888c3f92407fcb/ProgramaVF_5.pdf).
     April 2022. The material is freely available
     [here](https://github.com/SofiaG1l/Taller_COLMEX_API).
 
-2.  Mesa redonda: Huellas Digitales para el Conocimiento Demográfico
+3.  Mesa redonda: Huellas Digitales para el Conocimiento Demográfico
     [video](https://www.youtube.com/watch?v=fsASKYNIQo8) Invitada a la
     mesa redonda *Huellas Digitales para el Conocimiento Demográfico* de
     la XVI Jornadas Argentinas de Estudios de Población (AEPA),
     organizado por Iván Williams. October 2021.
 
-3.  Roundtable Demographic Research with Web and Social Media Data
+4.  Roundtable Demographic Research with Web and Social Media Data
     [video](https://www.youtube.com/watch?v=X0HIExHsq3E) Invited to the
     roundtable *Demographic Research with Web and Social Media Data* at
     the Latin American Population Association (ALAP), organized by Diego
