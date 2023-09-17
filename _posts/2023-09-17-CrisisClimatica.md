@@ -5,7 +5,7 @@ categories:
 excerpt: |
   Agua Dulce
 feature_text: |
-   
+   En este post hablo sobre el Agua Dulce, una de las nueve fronteras planetarias que los humanos no deben cruzar si queremos que la civilización subsista.
 feature_image: "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?cs=srgb&dl=pexels-pixabay-416528.jpg&fm=jpg"
 image: "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?cs=srgb&dl=pexels-pixabay-416528.jpg&fm=jpg"
 ---
@@ -20,9 +20,11 @@ agua dulce del planeta se encuentran en América del Sur, una cuarta
 parte en Asia y el cuarto restante se lo reparten América del Norte,
 América Central, Europa, Australia, África y el Oriente Medio (4).
 
+**Imagen 1:** Agua Dulce por Región. 
 
 ![Agua Dulce por Región. Fuente: https://www.ana.gob.pe/contenido/el-agua-en-cifras](https://www.ana.gob.pe/sites/default/files/cifras_03_0_0.jpg?raw=true)
 
+<sub>Fuente: <https://www.ana.gob.pe/contenido/el-agua-en-cifras></sub>
 
 Pero, ¿de dónde viene el agua dulce? El agua dulce proviene de varias
 fuentes. Principalmente del vapor de agua generado en los océanos que se
@@ -30,7 +32,11 @@ condensa en forma de lluvia y cae en distintas regiones. Esta agua de
 lluvia luego se almacena en forma solida en glaciares y en forma líquida
 en lagos de agua dulce, embalses artificiales, ríos, y humedales (5).
 
+**Imagen 2:** Diagrama del Ciclo del Agua. 
+
 ![Diagrama del Ciclo del Agua. Fuente: https://www.usgs.gov/media/images/el-ciclo-del-agua-water-cycle-spanish-png ](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/USGS_WaterCycle_Spanish_ONLINE_20230302.png?raw=true)
+
+<sub>Fuente: <https://www.usgs.gov/media/images/el-ciclo-del-agua-water-cycle-spanish-png></sub>
 
 Además del vapor generado en los océanos, científicos han descubiertos
 que los árboles también contribuyen a condensar el agua. Por ejemplo, en
@@ -42,7 +48,11 @@ agua a distintas partes del continente, por ejemplo, ríos que circulan
 en Brasil y Argentina (6,7). No es coincidencia que América del Sur
 genera la mitad del agua dulce del planeta.
 
+**Imagen 3:** Ríos Flotantes del Amazonas.
+
 ![Ríos Flotantes del Amazonas. Fuente: https://es.mongabay.com/2021/03/rios-voladores-bosques-lluvias-amazonia-deforestacion-historia-grafica/](https://imgs.mongabay.com/wp-content/uploads/sites/25/2021/03/17025538/Rios-voladores-_-mapa-ES.jpg?raw=true=50x100)
+
+<sub>Fuente: <https://es.mongabay.com/2021/03/rios-voladores-bosques-lluvias-amazonia-deforestacion-historia-grafica/></sub>
 
 Desgraciadamente, debido a la indiferencia humana la crisis climática se
 está acelerando y muchas fuentes de agua dulce se están perdiendo. Los
@@ -55,7 +65,11 @@ En México, en 2022, Nuevo León (13,14) y Jalisco tuvieron temporadas sin
 agua (15). En Chile igual comienzan a sentir las consecuencias (14,16),
 así como en Uruguay (17).
 
+**Video:** Cómo la agricultura y la industria secan los recursos hídricos de América Latina 
+
 [![Cómo la agricultura y la industria secan los recursos hídricos de América Latina](http://img.youtube.com/vi/jL5ir7PZJhM/0.jpg)](https://www.youtube.com/watch?v=jL5ir7PZJhM "Cómo la agricultura y la industria secan los recursos hídricos de América Latina")
+
+<sub>Fuente: <https://www.youtube.com/watch?v=jL5ir7PZJhM></sub>
 
 Pero, ¿qué podemos hacer? Aquí te describo dos posibles acciones. Lo
 primero es cuantificar la cantidad de agua que consumimos al día (18),
@@ -67,7 +81,11 @@ compramos ropa de forma innecesaria (19,20); consumimos alimentos que
 necesitan grandes cantidades de agua para crecer (14,21); y elegimos
 medios de transporte que no son amigables con el ambiente (14).
 
+**Video:** EL TEMA: CDMX - AGUA
+
 [![EL TEMA: CDMX - AGUA](http://img.youtube.com/vi/6ic4EKmmZ7I/0.jpg)](https://www.youtube.com/watch?v=6ic4EKmmZ7I "EL TEMA: CDMX - AGUA")
+
+<sub>Fuente: <https://www.youtube.com/watch?v=6ic4EKmmZ7I></sub>
 
 Lo segundo, es ser más activos combatiendo la crisis climática. Entre
 las acciones que puedes tomar están: plantar y cuidar árboles (plantas)
@@ -75,7 +93,11 @@ autóctonos de la región (22); ayudar a grupos y organismos no
 gubernamentales a limpiar y proteger el agua (23) y las zonas verdes;
 ayudar a incitar el diálogo sobre la crisis climática.
 
+**Video:** Los agricultores que convirtieron un desierto en un bosque | BBC
+
 [![Los agricultores que convirtieron un desierto en un bosque](http://img.youtube.com/vi/6A9PnSRBRHc/0.jpg)](https://www.youtube.com/watch?v=6A9PnSRBRHc "Los agricultores que convirtieron un desierto en un bosque")
+
+<sub>Fuente: <https://www.youtube.com/watch?v=6A9PnSRBRHc></sub>
 
 Hoy tienes la opción de cambiar tus hábitos y cambiar el curso de la
 crisis climática. No es necesario imaginar los futuros escenarios,
@@ -83,7 +105,11 @@ desgraciadamente hay muchos ejemplos de cómo el futuro se verá (24,25),
 y cómo se vio en civilizaciones pasadas que abusaron de los recursos
 naturales (26).
 
+**Video:** Por qué las civilizaciones Colapsan (Why societies collapse | Jared Diamond)
+
 [![Why societies collapse - Jared Diamond](http://img.youtube.com/vi/IESYMFtLIis/0.jpg)](https://www.youtube.com/watch?v=IESYMFtLIis "Why societies collapse")
+
+<sub>Fuente: <https://www.youtube.com/watch?v=IESYMFtLIis></sub>
 
 ## Referencias
 
