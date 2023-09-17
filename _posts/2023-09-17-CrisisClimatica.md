@@ -5,7 +5,7 @@ categories:
 excerpt: |
   Agua Dulce
 feature_text: |
-   En este post hablo sobre el Agua Dulce, una de las nueve fronteras planetarias que los humanos no deben cruzar si queremos que la civilización subsista.
+   
 feature_image: "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?cs=srgb&dl=pexels-pixabay-416528.jpg&fm=jpg"
 image: "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?cs=srgb&dl=pexels-pixabay-416528.jpg&fm=jpg"
 ---
@@ -93,7 +93,7 @@ autóctonos de la región (22); ayudar a grupos y organismos no
 gubernamentales a limpiar y proteger el agua (23) y las zonas verdes;
 ayudar a incitar el diálogo sobre la crisis climática.
 
-**Video:** Los agricultores que convirtieron un desierto en un bosque | BBC
+**Video:** Los agricultores que convirtieron un desierto en un bosque - BBC
 
 [![Los agricultores que convirtieron un desierto en un bosque](http://img.youtube.com/vi/6A9PnSRBRHc/0.jpg)](https://www.youtube.com/watch?v=6A9PnSRBRHc "Los agricultores que convirtieron un desierto en un bosque")
 
@@ -105,7 +105,7 @@ desgraciadamente hay muchos ejemplos de cómo el futuro se verá (24,25),
 y cómo se vio en civilizaciones pasadas que abusaron de los recursos
 naturales (26).
 
-**Video:** Por qué las civilizaciones Colapsan (Why societies collapse | Jared Diamond)
+**Video:** Por qué las civilizaciones Colapsan (Why societies collapse - Jared Diamond)
 
 [![Why societies collapse - Jared Diamond](http://img.youtube.com/vi/IESYMFtLIis/0.jpg)](https://www.youtube.com/watch?v=IESYMFtLIis "Why societies collapse")
 
