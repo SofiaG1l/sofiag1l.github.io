@@ -75,7 +75,7 @@ autóctonos de la región (22); ayudar a grupos y organismos no
 gubernamentales a limpiar y proteger el agua (23) y las zonas verdes;
 ayudar a incitar el diálogo sobre la crisis climática.
 
-[![Los agricultores que convirtieron un desierto en un bosque | BBC Mundo](http://img.youtube.com/vi/6A9PnSRBRHc/0.jpg)](https://www.youtube.com/watch?v=6A9PnSRBRHc "Los agricultores que convirtieron un desierto en un bosque | BBC Mundo")
+[![Los agricultores que convirtieron un desierto en un bosque](http://img.youtube.com/vi/6A9PnSRBRHc/0.jpg)](https://www.youtube.com/watch?v=6A9PnSRBRHc "Los agricultores que convirtieron un desierto en un bosque")
 
 Hoy tienes la opción de cambiar tus hábitos y cambiar el curso de la
 crisis climática. No es necesario imaginar los futuros escenarios,
@@ -83,7 +83,7 @@ desgraciadamente hay muchos ejemplos de cómo el futuro se verá (24,25),
 y cómo se vio en civilizaciones pasadas que abusaron de los recursos
 naturales (26).
 
-[![Why societies collapse | Jared Diamond](http://img.youtube.com/vi/IESYMFtLIis/0.jpg)](https://www.youtube.com/watch?v=IESYMFtLIis "Why societies collapse | Jared Diamond")
+[![Why societies collapse - Jared Diamond](http://img.youtube.com/vi/IESYMFtLIis/0.jpg)](https://www.youtube.com/watch?v=IESYMFtLIis "Why societies collapse")
 
 ## Referencias
 
