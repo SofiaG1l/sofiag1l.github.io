@@ -17,16 +17,13 @@ image: "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?cs=srgb
 El agua dulce es parte de las nueve fronteras planetarias que los
 humanos no deben cruzar si queremos que la civilización subsista (1–3).
 Así, sabemos que solamente el 3% del agua del planeta es agua dulce y
-apenas la mitad de ella es potable. Cerca de la mitad de las fuentes de
-agua dulce del planeta se encuentran en América del Sur, una cuarta
-parte en Asia y el cuarto restante se lo reparten América del Norte,
-América Central, Europa, Australia, África y el Oriente Medio (4).
+apenas la mitad de ella es potable. Cerca de un tercio de las reservas de agua dulce del planeta se encuentran en América del Sur, seguida por Asia 28.9% y Europa 13.9% (4).
 
 **Imagen 1:** Agua Dulce por Región. 
 
-![Agua Dulce por Región. Fuente: https://www.ana.gob.pe/contenido/el-agua-en-cifras](https://www.ana.gob.pe/sites/default/files/cifras_03_0_0.jpg?raw=true)
+![Agua Dulce por Región. Fuente: https://aquabook.agua.gob.ar/files/upload/contenidos/1_1029/fi19a.jpg](https://aquabook.agua.gob.ar/files/upload/contenidos/1_1029/fi19a.jpg?raw=true)
 
-<sub>Fuente: <https://www.ana.gob.pe/contenido/el-agua-en-cifras></sub>
+<sub>Fuente: <https://aquabook.agua.gob.ar/1029_0></sub>
 
 Pero, ¿de dónde viene el agua dulce? El agua dulce proviene de varias
 fuentes. Principalmente del vapor de agua generado en los océanos que se
@@ -47,8 +44,7 @@ hectárea de bosque, i.e. un árbol gigante del Amazonas es capaz de
 evaporar hasta 1000 litros de agua por día (6,7). Este vapor de agua
 circula por la selva Amazónica y crea sistemas pluviales que bombean
 agua a distintas partes del continente, por ejemplo, ríos que circulan
-en Brasil y Argentina (6,7). No es coincidencia que América del Sur
-genera la mitad del agua dulce del planeta.
+en Brasil y Argentina (6,7). No es coincidencia que un tercio del agua dulce se encuentre en América del Sur.
 
 **Imagen 3:** Ríos Flotantes del Amazonas.
 
@@ -124,9 +120,9 @@ naturales (26).
 3.  Richardson K, Steffen W, Lucht W, Bendtsen J, Cornell SE, Donges JF,
     et al. Earth beyond six of nine planetary boundaries. Sci Adv. 2023
     Sep 15;9(37):eadh2458.
-4.  Ciclo del agua - Unidad de Apoyo Para el Aprendizaje [Internet].
+4.  Aquabook [Internet].
     [cited 2023 Sep 16]. Available from:
-    <http://uapas1.bunam.unam.mx/ciencias/ciclo_del_agua/>
+    <https://aquabook.agua.gob.ar/1029_0>
 5.  El Ciclo del Agua - The Water Cycle, Spanish | U.S. Geological
     Survey [Internet]. [cited 2023 Sep 16]. Available from:
     <https://www.usgs.gov/special-topics/water-science-school/science/el-ciclo-del-agua-water-cycle-spanish>
