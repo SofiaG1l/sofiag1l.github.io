@@ -7,7 +7,7 @@ feature_text: |
        Actuarial and Computer Scientist studying social dynamics.
 ---
 
-Hi! I am a researcher at [TU Delft](https://research.tudelft.nl/en/persons/sofia-gil-clavel) working on the [SC3 project](http://www.sc3.center/). I obtained a joint Ph.D. from the Max Planck Institute for Demographic Research, Germany, and the University of Groningen, Netherlands ([link](https://www.rug.nl/frw/news/agenda/phd-ceremony-sofia-gil-clavel)).  
+Hi! I am a researcher at [TU Delft](https://research.tudelft.nl/en/persons/sofia-gil-clavel) working on the [SC3 project](http://www.sc3.center/). I obtained a joint Ph.D. from the Max Planck Institute for Demographic Research, Germany, and the University of Groningen, Netherlands ([link](http://hdl.handle.net/11370/9e6422f5-196b-4aef-ad2f-54da72771e30)).  
 
 Previously, I studied actuarial science at the National Autonomous University of Mexico (UNAM), and I have a M.Sc. in Computer Science from the Mathematical Research Center of Mexico (CIMAT). During my Ph.D., I was part of the international schools: 
 * [IMPRS-PHDS](https://www.imprs-phds.mpg.de/), Germany.
