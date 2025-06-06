@@ -9,7 +9,7 @@ feature_text: |
 
 Hi! I am a Researcher, Research Engineer, and Lab Manager at the [Societal Analytics Lab](https://www.societal-analytics.nl/)
 
-Previously, I was a researcher at [TU Delft](https://research.tudelft.nl/) working on the [SC3 project](http://www.sc3.center/). 
+Previously, I was a researcher at [TU Delft](https://repository.tudelft.nl/person/Person_eb58b9d8-7464-4c82-b675-9306fbf4aa81) working on the [SC3 project](https://www.sc3.center/team/sofia-gil-clavel/). 
 
 I obtained my Ph.D. from the Max Planck Institute for Demographic Research, Germany, and the University of Groningen, Netherlands ([link](http://hdl.handle.net/11370/9e6422f5-196b-4aef-ad2f-54da72771e30)). Before, I studied actuarial science at the National Autonomous University of Mexico (UNAM), and I have a M.Sc. in Computer Science from the Mathematical Research Center of Mexico (CIMAT). 
 
