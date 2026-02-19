@@ -23,7 +23,7 @@ plugins:
 url: 'https://sofiag1l.github.io/'
 baseurl: ''
 title: 'Sofia Gil-Clavel'
-description: 'Post Doctoral Researcher at TU Delft'
+description: 'Researcher at Vrije Universiteit Amsterdam'
 permalink: pretty
 logo: "/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 

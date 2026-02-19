@@ -7,7 +7,13 @@ feature_text: |
        Actuarial and Computer Scientist studying social dynamics.
 ---
 
-Hi! I am a Researcher, Research Engineer, and Lab Manager at the [Societal Analytics Lab](https://www.societal-analytics.nl/)
+Hi! I am a Researcher, Research Engineer, and Lab Manager at the [Societal Analytics Lab](https://www.societal-analytics.nl/).
+
+Currently, I am working on two main research projects: (1) Responsible use of Artificial Intelligence in government agencies, and (2) North vs. South climate change narratives.
+
+The first project, Responsible use of Artificial Intelligence in government agencies, aims to study how public servants use Artificial Intelligence in their daily work. In which situations do they use it? In which do they not? And how do they take the results into consideration? Based on this knowledge, I am co-developing an intervention in the form of a board game. This board game will empower public servants to use Artificial Intelligence responsibly and critically. More information [here](https://vu.nl/nl/verhalen/sofia-gil-clavel-over-verantwoord-gebruik-van-ai?utm_source=linkedin&utm_medium=organic&utm_campaign=interview_sofia).
+
+The second project, North vs. South climate change narratives, is a comparative analysis of climate change narratives in Western-European and Latin American countries. 
 
 Previously, I was a researcher at [TU Delft](https://repository.tudelft.nl/person/Person_eb58b9d8-7464-4c82-b675-9306fbf4aa81) working on the [SC3 project](https://www.sc3.center/team/sofia-gil-clavel/). 
 
@@ -18,9 +24,5 @@ During my Ph.D., I was part of the international schools:
 * [CanD3](https://www.mcgill.ca/cand3/), Canada.
 
 You can learn more about my Ph.D. projects [here](https://sofiag1l.github.io/eportfolio/2022/07/23/ePortafolio/) and about my PostDoc work [here](https://github.com/SofiaG1l/SC3_VIDI).
-
-In my work, I use Big Data (i.e., data from SCOPUS, Facebook, and Twitter) to study society's drivers of Climate Change Adaptation, older people’s usage of communication technologies, and migrants' cultural integration. I combine computer science techniques (e.g., machine learning and metaheuristics) with statistical and actuarial methods (generalized linear models, survival analysis, bootstrapping).
-
-My interests are Data Science, Statistics, Natural Language Processing, and Computer Science. I love coding, looking for patterns, and visualizing data.
 
 
