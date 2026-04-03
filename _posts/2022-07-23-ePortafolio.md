@@ -74,8 +74,10 @@ this work are available in my Github [link](https://github.com/SofiaG1l/Migratio
 
 My final dissertation article explored whether the European family ties division 
 is reflected in Twitter users' conversations. For this, I relied on the geo-located
-tweets stored in the Internet Archive [link](https://archive.org/details/twitterstream) and used multilevel generalized 
-models to analyze the data. The working paper can be accessed [here](https://osf.io/c379h/).
+tweets stored in the Internet Archive [link](https://archive.org/details/twitterstream) 
+and used Bayesian multilevel generalized 
+models to analyze the data. The final publication can be accessed [here](https://doi.org/10.1007/s11113-024-09891-6).
+All the codes to replicate this work are in my [GitHub](https://github.com/SofiaG1l/Twitter_Family_Ties).
 
 
 ### Non-Dissertation Projects
