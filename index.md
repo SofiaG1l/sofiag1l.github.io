@@ -10,6 +10,8 @@ feature_text: |
 Hi! I am a Researcher, Research Engineer, and Lab Manager at the 
 [Societal Analytics Lab](https://societal-analytics.nl/).
 
+# About my current projects
+
 Currently, I am working on two main research projects: (1) Responsible use of Artificial 
 Intelligence in government agencies, and (2) North vs. South climate change narratives.
 
@@ -24,6 +26,23 @@ Artificial Intelligence responsibly and critically. More information
 
 The second project, North vs. South climate change narratives, is a comparative 
 analysis of climate change narratives in Western-European and Latin American countries. 
+
+If you find these topics interesting, then you should consider attending the half-day
+symposium *S*ocietal and *E*nvironmental *R*isks of *AI* (SER-AI) that I am organizing with
+some colleagues from computer science:
+
+📍 Location: Vrije Universiteit Amsterdam (VU), the Netherlands
+
+📅 Date: November 12, 2026
+
+🕐 Time: 13:00–18:30
+
+👉 Register here: [https://forms.office.com/e/1rVs1XVs7R](https://forms.office.com/e/1rVs1XVs7R)
+
+🌐 Webpage: [https://sites.google.com/vu.nl/ser-ai](https://sites.google.com/vu.nl/ser-ai)
+
+
+# About my background
 
 Previously, I was a researcher at [TU Delft](https://repository.tudelft.nl/person/Person_eb58b9d8-7464-4c82-b675-9306fbf4aa81) 
 working on the [SC3 project](https://www.sc3.center/). 
