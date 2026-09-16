@@ -32,9 +32,13 @@ symposium **S**ocietal and **E**nvironmental **R**isks of **AI** (SER-AI) that I
 some colleagues from computer science:
 
 📍 Location: Vrije Universiteit Amsterdam (VU), the Netherlands
+
 📅 Date: November 12, 2026
+
 🕐 Time: 13:00–18:30
+
 👉 Register here: [https://forms.office.com/e/1rVs1XVs7R](https://forms.office.com/e/1rVs1XVs7R)
+
 🌐 Webpage: [https://sites.google.com/vu.nl/ser-ai](https://sites.google.com/vu.nl/ser-ai)
 
 <div style="max-width: 600px" >
