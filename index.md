@@ -28,22 +28,19 @@ The second project, North vs. South climate change narratives, is a comparative
 analysis of climate change narratives in Western-European and Latin American countries. 
 
 If you find these topics interesting, then you should consider attending the half-day
-symposium **S**ocietal and **E**nvironmental **R**isks of **AI** (SER-AI) that I am organizing with
+symposium **S**ocietal and **E**nvironmental **R**isks of **AI** (SER-AI) that I am organizing together with
 some colleagues from computer science:
 
 📍 Location: Vrije Universiteit Amsterdam (VU), the Netherlands
-
 📅 Date: November 12, 2026
-
 🕐 Time: 13:00–18:30
-
 👉 Register here: [https://forms.office.com/e/1rVs1XVs7R](https://forms.office.com/e/1rVs1XVs7R)
-
 🌐 Webpage: [https://sites.google.com/vu.nl/ser-ai](https://sites.google.com/vu.nl/ser-ai)
 
 <div style="max-width: 600px" >
   <p align="center">
     <img src="https://societal-analytics.nl/images/events/poster_serai_large.png" style="max-width:100%;" />
+    <figcaption>Symposium Societal and Environmental Risks of AI</figcaption>
   </p>
 </div>
 
